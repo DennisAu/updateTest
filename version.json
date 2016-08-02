@@ -2,7 +2,7 @@
 {
 "versionCode":4,
 "versionName":"1.32",
-"url":"http://contoso.com/app.apk",
+"url":"https://github.com/DennisAu/updateTest/blob/master/app-release.apk",
 "note":"Bug修复",
 "md5":"790fe8213db208b64d8e318464c7eaf4",
 "size":7880894
